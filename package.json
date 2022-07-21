@@ -2,7 +2,7 @@
 	"name": "vscode-platform-specific-sample",
 	"displayName": "Platform Specific Sample",
 	"description": "VS Code platform specific extension sample",
-	"publisher": "joaomoreno",
+	"publisher": "filiptronicek",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/microsoft/vscode-platform-specific-sample"
